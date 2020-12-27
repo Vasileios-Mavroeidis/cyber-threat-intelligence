@@ -1,4 +1,4 @@
-## Sector/Industry Taxonomy for Cyber Threat Intelligence use
+## Sector/Industry Taxonomy for Cyber Threat Intelligence
 
 The sector/industry taxonomy aims to be used by the cybersecurity community. It is an effort to produce a standard taxonomy for enriching threat information and support unambiguous information sharing. Producing, sharing, processing, and analyzing cyber threat intelligence requires using/adopting robust vocabularies and/or taxonomies to describe what we know unambiguously.
 
