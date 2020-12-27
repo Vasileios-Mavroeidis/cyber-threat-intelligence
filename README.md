@@ -3,3 +3,4 @@ The CTI repo aggregates work related to cyber threat intelligence and its sharin
 
 ### Taxonomies
 
+* [Sector-Industry Taxonomy](https://github.com/Vasileios-Mavroeidis/cyber-threat-intelligence/tree/main/sector-industry-taxonomy)
