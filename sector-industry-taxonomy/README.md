@@ -37,6 +37,8 @@ The taxonomy should be extended based on the requirements and needs of the cyber
 ---
 * education
 ---
+* emergency-services
+---
 * energy
   * non-renewable-energy
   * renewable-energy
@@ -117,6 +119,8 @@ Subclasses (sector/industry): **aviation**
 **Defense:** the defense industry/sector includes research and development, design, production, delivery, and maintenance of military weapons systems, subsystems, and components or parts, to meet military requirements. The defense sector/industry covers everything from land, sea, and air defense capabilities and cybersecurity.
 
 **Education:** the education sector/industry comprises entities that facilitate learning, such as schools, colleges, and universities.
+
+**Emergency services:** the emergency services sector provides a wide range of prevention, preparedness, response, and recovery services during both day-to-day operations and incident response. The emergency services sector includes geographically distributed facilities and equipment in both paid and volunteer capacities organized primarily at the federal, state, local, tribal, and territorial levels of government, such as city police departments and fire stations, county sheriff’s offices, Department of Defense police and fire departments, and town public works departments. The emergency services sector also includes private sector resources, such as industrial fire departments, private security organizations, and private emergency medical services providers.
 
 **Energy:** the energy sector/industry comprises entities involved in electricity generation and distribution, such as energy generation infrastructure (e.g., power plants), operators (e.g., grid operators), transmission and distribution lines, and utility providers. Electricity can be generated from renewable resources (e.g., hydro, wind, solar, biomass, geothermal), fossil fuels (such as coal and gas), or nuclear power.
 
