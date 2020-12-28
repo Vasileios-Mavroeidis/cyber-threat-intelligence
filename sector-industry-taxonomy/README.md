@@ -106,7 +106,7 @@ Subclasses (sector/industry): **aviation**
 
 **Biotechnology:** the biotechnology sector/industry comprises entities involved in utilizing biotechnology to develop products. Biotechnology is known to highly overlap with the pharmaceutical sector/industry, but generally, it has a plethora of uses cases like in agriculture, food, and chemical sectors/industries.
 
-**Chemical:** the chemical sector/industry comprises entities producing petrochemicals, polymers, basic inorganics, specialties, and consumer chemicals[https://ec.europa.eu/growth/sectors/chemicals_en]. The products (chemicals) produced by the chemical sector/industry have a broad range of uses, such as in the food industry, pharmaceutical, agriculture, manufacturing, and industries involved in consumer goods.
+**Chemical:** the chemical sector/industry comprises entities producing petrochemicals, polymers, basic inorganics, specialties, and consumer chemicals [2]. The products (chemicals) produced by the chemical sector/industry have a broad range of uses, such as in the food industry, pharmaceutical, agriculture, manufacturing, and industries involved in consumer goods.
 
 **Commerce:** the commerce sector/industry comprises entities involved in wholesale and retail trade, generally without making any changes to the goods. The commerce sector, in this case, does not include professional services. Professional services (e.g., consulting) is a distinct sector/industry in the taxonomy.
 
@@ -114,13 +114,13 @@ Subclasses (sector/industry): **aviation**
 
 **Cosmetics:** the cosmetics industry comprises entities that manufacture and distribute cosmetic products (e.g., hygiene products such as soap, shampoo, deodorant, and toothpaste to luxury beauty items including perfumes and makeup).
 
-**Dams:** the dams sector/industry comprises entities involved in operating and maintaining dams. Based on its purpose, a dam can be considered critical infrastructure for a nation. Dams provide a wide range of economic, environmental, and social benefits, including hydroelectric power, river navigation, water supply, wildlife habitat, waste management, flood control, and recreation [2].
+**Dams:** the dams sector/industry comprises entities involved in operating and maintaining dams. Based on its purpose, a dam can be considered critical infrastructure for a nation. Dams provide a wide range of economic, environmental, and social benefits, including hydroelectric power, river navigation, water supply, wildlife habitat, waste management, flood control, and recreation [3].
 
 **Defense:** the defense industry/sector includes research and development, design, production, delivery, and maintenance of military weapons systems, subsystems, and components or parts, to meet military requirements. The defense sector/industry covers everything from land, sea, and air defense capabilities and cybersecurity.
 
 **Education:** the education sector/industry comprises entities that facilitate learning, such as schools, colleges, and universities.
 
-**Emergency services:** the emergency services sector provides a wide range of prevention, preparedness, response, and recovery services during both day-to-day operations and incident response. The emergency services sector includes geographically distributed facilities and equipment in both paid and volunteer capacities organized primarily at the federal, state, local, tribal, and territorial levels of government, such as city police departments and fire stations, county sheriff’s offices, Department of Defense police and fire departments, and town public works departments. The emergency services sector also includes private sector resources, such as industrial fire departments, private security organizations, and private emergency medical services providers.
+**Emergency services:** the emergency services sector provides a wide range of prevention, preparedness, response, and recovery services during both day-to-day operations and incident response. The emergency services sector includes geographically distributed facilities and equipment in both paid and volunteer capacities organized primarily at the federal, state, local, tribal, and territorial levels of government, such as city police departments and fire stations, county sheriff’s offices, Department of Defense police and fire departments, and town public works departments. The emergency services sector also includes private sector resources, such as industrial fire departments, private security organizations, and private emergency medical services providers.[4]
 
 **Energy:** the energy sector/industry comprises entities involved in electricity generation and distribution, such as energy generation infrastructure (e.g., power plants), operators (e.g., grid operators), transmission and distribution lines, and utility providers. Electricity can be generated from renewable resources (e.g., hydro, wind, solar, biomass, geothermal), fossil fuels (such as coal and gas), or nuclear power.
 
@@ -140,9 +140,9 @@ Subclasses (sector/industry): **banking**
 
 **Gambling:** the gambling or betting industry includes online or offline gambling entities like casinos and other online betting games.
 
-**Government:** the government sector includes a wide variety of entities involved in governmental nature activities. It includes facilities owned or leased by federal, state, local, and tribal governments. Many government facilities are open to the public for business activities, commercial transactions, or recreational activities. In contrast, others that are not open to the public contain highly sensitive information, materials, processes, and equipment. These facilities include general-use office buildings and special-use military installations, embassies, courthouses, national laboratories, and structures that may house critical equipment, systems, networks, and functions. In addition to physical structures, the sector includes cyber elements that contribute to the protection of sector assets (e.g., access control systems and closed-circuit television systems) as well as individuals who perform essential functions or possess tactical, operational, or strategic knowledge [3]. The government sector overlaps with multiple other sectors/industries like the defense sector/industry that comprises government entities that support a nation's national security capability. 
+**Government:** the government sector includes a wide variety of entities involved in governmental nature activities. It includes facilities owned or leased by federal, state, local, and tribal governments. Many government facilities are open to the public for business activities, commercial transactions, or recreational activities. In contrast, others that are not open to the public contain highly sensitive information, materials, processes, and equipment. These facilities include general-use office buildings and special-use military installations, embassies, courthouses, national laboratories, and structures that may house critical equipment, systems, networks, and functions. In addition to physical structures, the sector includes cyber elements that contribute to the protection of sector assets (e.g., access control systems and closed-circuit television systems) as well as individuals who perform essential functions or possess tactical, operational, or strategic knowledge [5]. The government sector overlaps with multiple other sectors/industries like the defense sector/industry that comprises government entities that support a nation's national security capability, and the emergency services sector that provides a wide range of prevention, preparedness, response, and recovery services during both day-to-day operations and incident response. 
 
-**Healthcare:** the healthcare sector/industry comprises entities providing healthcare, meaning services to assess, maintain or restore a patient's state of health, including the prescription, dispensation, and provision of medicinal products and medical devices.[4]
+**Healthcare:** the healthcare sector/industry comprises entities providing healthcare, meaning services to assess, maintain or restore a patient's state of health, including the prescription, dispensation, and provision of medicinal products and medical devices.[6]
 
 Subclasses (sector/industry): **hospital**
 
@@ -160,7 +160,7 @@ Subclasses (sector/industry): **electronics-and-hardware**, **software**, **tele
 
 **Maritime:** the maritime sector/industry involves a plethora of organizations and activities related to the ocean and ships and other floating entities. Examples are maritime transportation, shipyards, maritime equipment manufacturers, and commercial fishing. The maritime sector/industry highly overlaps with the transportation sector/industry.
 
-**Metals:** the metals sector/industry comprises entities involved in processing non-ferrous metals such as aluminum, copper, zinc, and ferrous materials such as steel.[5]
+**Metals:** the metals sector/industry comprises entities involved in processing non-ferrous metals such as aluminum, copper, zinc, and ferrous materials such as steel.[7]
 
 **Mining:** the mining sector/industry comprises entities dedicated to the location and extraction of metal and mineral reserves. Oil and natural gas extraction are not included in this industry, but they can be referenced using the Petroleum sector/industry.
 
@@ -186,7 +186,7 @@ Subclasses (sector/industry): **logistics and shipping**
 
 **Video game:** the video game industry comprises entities involved in the development, marketing, and monetization of video games. The video game industry overlaps with other sectors/industries like the ICT and, in particular, the software sector/industry.
 
-**Water:** the water sector/industry comprises entities that provide water and wastewater services, including sewage treatment. The water sector/industry does not include manufacturers and suppliers of bottled water, which is part of the beverage production and belongs to the food sector/industry.[6]
+**Water:** the water sector/industry comprises entities that provide water and wastewater services, including sewage treatment. The water sector/industry does not include manufacturers and suppliers of bottled water, which is part of the beverage production and belongs to the food sector/industry.[8]
 
 
   
@@ -198,12 +198,16 @@ Subclasses (sector/industry): **logistics and shipping**
 ### References:
 [1] J. B. Rae, "Automotive Industry", Britannica, 2020. Available at: https://www.britannica.com/technology/automotive-industry
 
-[2] United States Department of Homeland Security, "National Infrastructure Protection Plan: Dams Sector". Available at: https://www.dhs.gov/xlibrary/assets/nppd/nppd-dams-sector-snapshot-508.pdf  
+[2] European Commission, "Sectors: Chemicals". Available at: [https://ec.europa.eu/growth/sectors/chemicals_en
 
-[3] European Commission, "DIRECTIVE (EU) 2016/1148 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union", Official Journal of the European Union, 2016. Available at: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016L1148&from=EN#d1e836-1-1
+[3] United States Department of Homeland Security, "National Infrastructure Protection Plan: Dams Sector". Available at: https://www.dhs.gov/xlibrary/assets/nppd/nppd-dams-sector-snapshot-508.pdf  
 
-[4] Cybersecurity and Infrastructure Security Agency (CISA), "Critical Infrastructure Sectors: Government Facilities Sector". Available at: https://www.cisa.gov/government-facilities-sector
+[4] Cybersecurity and Infrastructure Security Agency (CISA), "Critical Infrastructure Sectors: Emergency Services Sector". Available at: https://www.cisa.gov/emergency-services-sector
 
-[5] European Commission, "Sectors". Available at: https://ec.europa.eu/growth/sectors/raw-materials/industries/metals_en
+[5] Cybersecurity and Infrastructure Security Agency (CISA), "Critical Infrastructure Sectors: Government Facilities Sector". Available at: https://www.cisa.gov/government-facilities-sector
 
-[6] Wikipedia, "Water industry". Available at: https://en.wikipedia.org/wiki/Water_industry. Retrieved: December 22, 2020.
+[6] European Commission, "DIRECTIVE (EU) 2016/1148 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union", Official Journal of the European Union, 2016. Available at: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016L1148&from=EN#d1e836-1-1
+
+[7] European Commission, "Sectors: Raw Materials: Industries: Metals". Available at: https://ec.europa.eu/growth/sectors/raw-materials/industries/metals_en
+
+[8] Wikipedia, "Water industry". Available at: https://en.wikipedia.org/wiki/Water_industry. Retrieved: December 22, 2020.
