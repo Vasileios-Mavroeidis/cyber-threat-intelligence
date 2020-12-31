@@ -130,13 +130,13 @@ Subclasses (sector/industry): **non-renewable-energy**, **renewable-energy**
 
 **Renewable energy:** the renewable energy sector/industry comprises entities involved in electricity generation and distribution from renewable resources such as hydro, wind, solar, biomass, and geothermal.
 
-**Entertainment and Media:** the entertainment and media sector/industry consists of film, print, radio, and television.
+**Entertainment and Media:** the entertainment and media sector/industry consists of film, print, radio, and television, also when provided in electronic form via Internet.
 
 **Financial:** the financial sector is a broad term used to describe a range of activities that manage money, encompassing everything from insurance companies and stock brokerages to investment funds and banking.
 
 Subclasses (sector/industry): **banking**
 
-**Food:** the food industry comprises entities involved in the processing, preparation, preservation, and packaging of food. The raw materials used are generally of vegetable or animal origin and produced by agriculture like farming, breeding, and fishing. Foodservice is also included and comprises entities that serve food to people, such as restaurants.
+**Food:** the food industry comprises entities involved in the processing, preparation, preservation, and packaging of food and beverages. The raw materials used are generally of vegetable or animal origin and produced by agriculture like farming, breeding, and fishing. Foodservice is also included and comprises entities that serve food to people, such as restaurants.
 
 **Gambling:** the gambling or betting industry includes online or offline gambling entities like casinos and other online betting games.
 
@@ -178,7 +178,7 @@ Subclasses (sector/industry): **humanitarian aid**, **research**
 
 **Pharmaceutical:** the pharmaceutical sector/industry comprises entities that research, develop, produce, and distribute pharmaceutical products like medications. 
 
-**Transportation:** the transportation sector/industry comprises services to move people or goods, and transportation infrastructure. The transportation sector consists of several industries that have focus on transportation, including air freight and logistics, airlines, marine, road and rail, and transportation infrastructures like railroads and marine ports.
+**Transportation:** the transportation sector/industry comprises services to move people or goods, and transportation infrastructure. The transportation sector consists of several industries that focus on transportation, including air freight and logistics, airlines, marine, road and rail, and transportation infrastructures like railroads and marine ports.
 
 Subclasses (sector/industry): **logistics and shipping**
 
