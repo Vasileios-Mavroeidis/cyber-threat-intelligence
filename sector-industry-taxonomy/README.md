@@ -32,8 +32,6 @@ The taxonomy should be extended based on the requirements and needs of the cyber
 * dams
 ---
 * defense
-  * arms
-  * military
 ---
 * education
 ---
@@ -116,7 +114,7 @@ Subclasses (sector/industry): **aviation**
 
 **Dams:** the dams sector/industry comprises entities involved in operating and maintaining dams. Based on its purpose, a dam can be considered critical infrastructure for a nation. Dams provide a wide range of economic, environmental, and social benefits, including hydroelectric power, river navigation, water supply, wildlife habitat, waste management, flood control, and recreation [3].
 
-**Defense:** the defense industry/sector includes research and development, design, production, delivery, and maintenance of military weapons systems, subsystems, and components or parts, to meet military requirements. The defense sector/industry covers everything from land, sea, and air defense capabilities and cybersecurity.
+**Defense:** the defense sector comprises government and commercial entities involved in research and development, design, production, delivery, and maintenance of military weapons (arms), weapon systems, subsystems, and components or parts, to meet military requirements. The defense sector covers everything from land, sea, and air defense capabilities and cybersecurity.
 
 **Education:** the education sector/industry comprises entities that facilitate learning, such as schools, colleges, and universities.
 
