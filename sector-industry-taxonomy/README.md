@@ -74,6 +74,7 @@ ___
 ---
 * non-profit
   * humanitarian-aid
+  * human-rights
   * research
 ---
 * nuclear
@@ -168,6 +169,8 @@ Subclasses (sector/industry): **humanitarian aid**, **research**
 
 **Humanitarian aid:** the humanitarian aid industry or humanitarian aid organizations provide material and logistic assistance to people who need help (e.g., homeless, refugees, and victims of natural disasters, wars, and famines).
 
+**Human rights:** comprises establishments primarily engaged in promoting causes associated with human rights either for a broad or specific constituency. Establishments in this industry address issues, such as protecting and promoting the broad constitutional rights and civil liberties of individuals and those suffering from neglect, abuse, or exploitation; promoting the interests of specific groups, such as children, women, senior citizens, or persons with disabilities; improving relations between racial, ethnic, and cultural groups; and promoting voter education and registration.[8]
+
 **Research:** entities that solely specialize in research like research institutions and think tanks.
 
 **Nuclear:** the nuclear sector/industry includes nuclear infrastructure, and in this taxonomy, it is unrelated to how the nuclear power is used, such as for energy generation, radioactive materials for healthcare, or for developing nuclear weapons. 
@@ -184,7 +187,7 @@ Subclasses (sector/industry): **logistics and shipping**
 
 **Video game:** the video game industry comprises entities involved in the development, marketing, and monetization of video games. The video game industry overlaps with other sectors/industries like the ICT and, in particular, the software sector/industry.
 
-**Water:** the water sector/industry comprises entities that provide water and wastewater services, including sewage treatment. The water sector/industry does not include manufacturers and suppliers of bottled water, which is part of the beverage production and belongs to the food sector/industry.[8]
+**Water:** the water sector/industry comprises entities that provide water and wastewater services, including sewage treatment. The water sector/industry does not include manufacturers and suppliers of bottled water, which is part of the beverage production and belongs to the food sector/industry.[9]
 
 
   
@@ -208,4 +211,6 @@ Subclasses (sector/industry): **logistics and shipping**
 
 [7] European Commission, "Sectors: Raw Materials: Industries: Metals". Available at: https://ec.europa.eu/growth/sectors/raw-materials/industries/metals_en
 
-[8] Wikipedia, "Water industry". Available at: https://en.wikipedia.org/wiki/Water_industry. Retrieved: December 22, 2020.
+[8] North American Industry Classification System, "813311 Human Rights Organizations". Available at: https://www.census.gov/cgi-bin/sssd/naics/naicsrch?code=813311&search=2017%20NAICS%20Search
+
+[9] Wikipedia, "Water industry". Available at: https://en.wikipedia.org/wiki/Water_industry. Retrieved: December 22, 2020.
