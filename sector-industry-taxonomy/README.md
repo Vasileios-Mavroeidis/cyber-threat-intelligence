@@ -1,4 +1,4 @@
-## Sector/Industry Taxonomy for Cyber Threat Intelligence
+## Sector/Industry taxonomy for Cyber Threat Intelligence
 
 The sector/industry taxonomy aims to be used by the cybersecurity community. It is an effort to produce a standard taxonomy for enriching threat information and support unambiguous information sharing. Producing, sharing, processing, and analyzing cyber threat intelligence requires using/adopting robust vocabularies and/or taxonomies to describe what we know unambiguously.
 
@@ -10,7 +10,14 @@ The taxonomy comes together with descriptions that allow reliable classification
 
 The taxonomy should be extended based on the requirements and needs of the cybersecurity community.
 
-### Taxonomy
+## Mapping with other taxonomies/vocabulries
+
+The spreadsheet provides mappings between the taxonomy of this repository and other resources/efforts.
+
+https://docs.google.com/spreadsheets/d/1P4mFjfNtc6O7tb7-86L7yo-XxnM3VuaBLUfoxiZ0wOY/
+
+
+## Taxonomy
 ---
 * aerospace
    * aviation
@@ -28,6 +35,8 @@ The taxonomy should be extended based on the requirements and needs of the cyber
 * construction
 ---
 * cosmetics
+---
+* critical infrastructure
 ---
 * dams
 ---
@@ -112,6 +121,8 @@ Subclasses (sector/industry): **aviation**
 **Construction:** the construction sector/industry comprises entities involved in building (residential and non-residential) construction, infrastructure construction (e.g., large public works, dams, bridges, roads, airports, railways, and tramlines), and industrial construction (e.g., energy installations, manufacturing plants).
 
 **Cosmetics:** the cosmetics industry comprises entities that manufacture and distribute cosmetic products (e.g., hygiene products such as soap, shampoo, deodorant, and toothpaste to luxury beauty items including perfumes and makeup).
+
+**Critical infrastructure**  is an asset or system that is essential for maintaining vital societal functions. It is the case that different nations may define more or fewer assets as critical infrastructures. For example, the U.S.A defines 16 sectors as critical infrastructures, whereas Norway defines 6, namely, communication networks, energy, water and wastewater, transportation, oil and gas, and satellite communications. 
 
 **Dams:** the dams sector/industry comprises entities involved in operating and maintaining dams. Based on its purpose, a dam can be considered critical infrastructure for a nation. Dams provide a wide range of economic, environmental, and social benefits, including hydroelectric power, river navigation, water supply, wildlife habitat, waste management, flood control, and recreation [3].
 
