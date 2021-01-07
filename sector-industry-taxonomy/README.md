@@ -171,7 +171,7 @@ Subclasses (sector/industry): **humanitarian aid**, **research**
 
 **Human rights:** comprises establishments primarily engaged in promoting causes associated with human rights either for a broad or specific constituency. Establishments in this industry address issues, such as protecting and promoting the broad constitutional rights and civil liberties of individuals and those suffering from neglect, abuse, or exploitation; promoting the interests of specific groups, such as children, women, senior citizens, or persons with disabilities; improving relations between racial, ethnic, and cultural groups; and promoting voter education and registration.[8]
 
-**Research:** entities that solely specialize in research like research institutions and think tanks.
+**Research:** entities that solely specialize in research like research institutions, think tanks, and research groups/divisions within organizations.
 
 **Nuclear:** the nuclear sector/industry includes nuclear infrastructure, and in this taxonomy, it is unrelated to how the nuclear power is used, such as for energy generation, radioactive materials for healthcare, or for developing nuclear weapons. 
 
