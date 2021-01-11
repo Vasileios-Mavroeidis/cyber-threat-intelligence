@@ -1,8 +1,8 @@
 ## Sector/Industry taxonomy for Cyber Threat Intelligence
 
-The sector/industry taxonomy aims to be used by the cybersecurity community. It is an effort to produce a standard taxonomy for enriching threat information and support unambiguous information sharing. Producing, sharing, processing, and analyzing cyber threat intelligence requires using/adopting robust vocabularies and/or taxonomies to describe what we know unambiguously.
+The sector/industry taxonomy aims to be used by the cybersecurity community. It is an effort to produce a commonly agreed taxonomy for enriching threat information and support unambiguous information sharing, processing, corellation, and analysis.
 
-Even though standards-based classification systems or taxonomies exist for enumerating sectors and industries, they have been created based on geographical boundaries and different criteria, such as similar production processes, similar products, or similar behavior in financial markets.
+Even though standards-based classification systems or taxonomies exist for enumerating sectors and industries, they have been created based on geographical boundaries and different criteria, such as similar production processes, similar products, or similar behavior in financial markets, thus making their operationalization a little cumbersome. It is a fact though that standards-based taxonomies, and vocabularies is the way to go to achieve interoperability.
 
 This taxonomy does not reinvent the wheel, but it has been created by referencing numerous other known standards-based works and also efforts and material by the cybersecurity community. The taxonomy is not exhaustive because it should not be chaotic to utilize, but includes commonly seen targeted industries and sectors in the cyber domain.
 
